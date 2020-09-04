@@ -6,7 +6,7 @@
     "@createnl/grouped-checkboxes": "^1.1.0",
     "mobx": "^5.14.2",
     "mobx-react": "^6.1.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.11.0",
     "react-compound-slider": "^2.5.0",
     "react-dom": "^16.9.0",
